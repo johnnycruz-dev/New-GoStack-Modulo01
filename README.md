@@ -4,6 +4,6 @@
 
 Projeto simples com os conceitos do **Node.js** como:
 
-- **` Métodos HTTP` **
-- **` Tipos de parâmetros` **
-- **` Middlewares` **
+-**` Métodos HTTP`**
+-**` Tipos de parâmetros`**
+-**` Middlewares`**
